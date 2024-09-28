@@ -27,3 +27,5 @@ Criar uma rede social que facilite a comunicação global, proteja a privacidade
 
 ## Licença
 Este projeto está licenciado sob a **MIT License**.
+
+![Banner completo LinkFlux 2](https://github.com/user-attachments/assets/d5a07c64-742a-46e3-a2f4-57985c263248)
