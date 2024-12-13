@@ -11,7 +11,8 @@ O **LinkFlux** é uma rede social revolucionária que utiliza autenticação via
 
 ## Segurança e Moderação
 - **IA de Moderação**: Todo conteúdo é analisado por IA antes de ser publicado. Advertências são emitidas para violações leves, enquanto conteúdos proibidos geram alertas educacionais.
-- **Monitoramento Proativo**: Em casos de reincidência, o sistema aumenta a supervisão do IP e aplica restrições progressivas, educando os usuários sobre infrações e promovendo um comportamento saudável na rede.
+- **Banimento Imediato para Infrações Graves**: Conteúdos extremamente graves resultarão em banimento imediato e sem apelação.
+- **Monitoramento Proativo de IP**: Em casos de reincidência, o sistema marca o IP do usuário como "visado", aumentando a supervisão e aplicando restrições mais severas. Para que o IP deixe de ser considerado visado, todas as contas associadas a ele deverão passar **1 ano sem infrações**.
 
 ## Crowdfunding
 O desenvolvimento do LinkFlux será financiado por uma campanha de crowdfunding, com uma meta de arrecadação entre **R$ 2.5 milhões e R$ 3 milhões**. A primeira fase do projeto será realizada em São Paulo, Brasil.
